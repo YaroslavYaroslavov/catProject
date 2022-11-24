@@ -27,7 +27,7 @@ main {
 
 .topbar {
     background: #292F3C;
-    padding-left: 58px;
+    padding-left: 87px;
     gap: 330px;
     display: flex;
     align-items: center;
@@ -163,4 +163,129 @@ footer .container {
     height: 753px;
     background-position: 100% 67%;
     background-image: url(./components/image\ 1.png);
+}
+
+.aducationWrapper {
+    background: #1c2029;
+}
+
+.aducationHead {
+    font-family: 'Inter SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 73px;
+    color: #FFFFFF;
+    margin-left: 87px;
+    padding-top: 19px;
+}
+
+.pseudoContainer {
+    width: 1266px;
+    margin: auto;
+}
+
+.facultsHead {
+    width: 305px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 54px;
+    color: #FFFFFF;
+    margin: auto;
+    margin-top: 35px;
+    margin-bottom: 28px;
+}
+
+.facultsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    /* justify-content: space-around; */
+}
+
+.facultet {
+    background: #888389;
+    border-radius: 45px;
+    width: 413px;
+    height: 409px;
+    margin-bottom: 50px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.facultetName {
+    font-family: 'Inter Bold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    margin-top: 21px;
+    margin-bottom: 9px;
+}
+
+.facultetDesc {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.teacherContainer {
+    display: flex;
+    width: 700px;
+    padding: 20px;
+    box-sizing: border-box;
+    max-width: 50%;
+    display: flex;
+    margin-bottom: 35px;
+}
+
+.teacherFace {
+    width: 192px;
+    height: 228px;
+}
+
+.teacherName {
+    font-family: 'Inter SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 33px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+
+.teacherDesc {
+    font-family: 'Inter SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.teachers {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 100px;
+}
+
+.teacherInfo {
+    margin-left: 9px;
+}
+
+.teachersHead {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 54px;
+    color: #FFFFFF;
+    width: 397px;
+    margin: auto;
 }
