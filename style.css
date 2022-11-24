@@ -198,11 +198,15 @@ footer .container {
     margin-bottom: 28px;
 }
 
-.facultsContainer {
+.facultetRowTop {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    /* justify-content: space-around; */
+    justify-content: space-between;
+}
+
+.facultetRowBottom {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
 }
 
 .facultet {
