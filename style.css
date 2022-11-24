@@ -289,3 +289,132 @@ footer .container {
     width: 397px;
     margin: auto;
 }
+
+.abiturWrapper {
+    background: #1c2029;
+}
+
+.points {
+    margin: auto;
+    border: 3px solid #000000;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    width: 1000px;
+    height: 403px;
+    text-align: center;
+}
+
+.nameFac {
+    text-align: start;
+    font-family: 'Inter SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    background-color: transparent;
+    padding-left: 27px;
+}
+
+.tableWrap {
+    display: flex;
+    flex-direction: column;
+    width: 1266px;
+    height: 528px;
+    border-radius: 33px;
+    margin: auto;
+    background: #c6c6c6;
+    align-items: center;
+    margin-top: 19px;
+}
+
+.tableName {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    color: #2F3950;
+    margin-top: 23px;
+}
+
+.docsHead {
+    width: 261px;
+    margin: auto;
+    margin-top: 17px;
+    margin-bottom: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: white;
+}
+
+.docsList {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 42px;
+    color: #FFFFFF;
+    padding-bottom: 40px;
+}
+
+.aboutWrapper {
+    background: #1c2029;
+    color: white;
+}
+
+.infoHead {
+    padding-top: 37px;
+    padding-bottom: 25px;
+    width: 220px;
+    margin: auto;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.infoContent {
+    font-family: 'Inter SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 42px;
+}
+
+.hostelHead {
+    padding-top: 70px;
+    padding-bottom: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    width: 268px;
+    margin: auto;
+}
+
+.hostelDesc {
+    padding-top: 44px;
+    padding-bottom: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.hostelCost {
+    font-family: 'Inter SemiBold';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    padding-bottom: 99px;
+}
